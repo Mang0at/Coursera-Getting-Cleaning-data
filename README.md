@@ -6,7 +6,7 @@ run_analysis.R = the R script created based on instructions provided
 final_data.txt = the output of the above R script
 CodeBook.md = a code book that describes the variables, the data, and any transformations or work performed to clean up the data
 
-Course insturctions are:
+Course instructions are:
 
 You should create one R script called run_analysis.R that does the following.
 
